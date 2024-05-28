@@ -173,7 +173,6 @@
 ||settings.data.glbdns2.microsoft.com^
 ||settingsfd-geo.trafficmanager.net^
 ||share.microsoft.com^
-||skype.com^
 ||spclient.wg.spotify.com^
 ||spynet2.microsoft.com^
 ||spynetalt.microsoft.com^
