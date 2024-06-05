@@ -1,4 +1,4 @@
-# host
+﻿# host
 ||calibra.com^
 ||cdninstagram.com^
 ||connect.facebook.net.edgekey.net^
@@ -78,8 +78,4 @@
 ||tfbnw.net^
 ||thefacebook.com^
 ||threads.net^
-||wa.me^
 ||watchdog.energized.pro^
-||whatsapp.com^
-||whatsapp.com----m.com^
-||whatsapp.net^

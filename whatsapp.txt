@@ -1,0 +1,23 @@
+﻿# host
+||wa.me^
+||whatsapp-cdn-shv-01-atl1.fbcdn.net^
+||whatsapp-cdn-shv-01-dfw1.fbcdn.net^
+||whatsapp-cdn-shv-01-iad3.fbcdn.net^
+||whatsapp-cdn-shv-01-lax1.fbcdn.net^
+||whatsapp-cdn-shv-01-lax3.fbcdn.net^
+||whatsapp-cdn-shv-01-lga1.fbcdn.net^
+||whatsapp-cdn-shv-01-mia1.fbcdn.net^
+||whatsapp-cdn-shv-01-ord1.fbcdn.net^
+||whatsapp-cdn-shv-01-sea1.fbcdn.net^
+||whatsapp-cdn-shv-01-sjc2.fbcdn.net^
+||whatsapp-plus.info^
+||whatsapp-plus.me^
+||whatsapp-plus.net^
+||whatsapp.cc^
+||whatsapp.com^
+||whatsapp.com----m.com^
+||whatsapp.info^
+||whatsapp.net^
+||whatsapp.org^
+||whatsapp.tv^
+||whatsappbrand.com^

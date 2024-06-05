@@ -1,4 +1,4 @@
-# host
+﻿# host
 ||1oavsblobprodcus350.blob.core.windows.net^
 ||37bvsblobprodcus311.blob.core.windows.net^
 ||adnexus.net^
@@ -173,6 +173,7 @@
 ||settings.data.glbdns2.microsoft.com^
 ||settingsfd-geo.trafficmanager.net^
 ||share.microsoft.com^
+||skype.com^
 ||spclient.wg.spotify.com^
 ||spynet2.microsoft.com^
 ||spynetalt.microsoft.com^
