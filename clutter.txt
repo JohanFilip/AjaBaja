@@ -14,6 +14,7 @@
 ||ab.chatgpt.com^
 ||abicart.com^
 ||abicart.se^
+||abtasty.com^
 ||acast.cloud^
 ||acast.com^
 ||accelerateddomains.com^
@@ -32,6 +33,7 @@
 ||adobe.com^
 ||adobedc.net^
 ||adobedtm.com^
+||adspirit.info^
 ||adt313.net^
 ||adt393.com^
 ||adt701.net^
@@ -99,7 +101,6 @@
 ||api.pinterest.com^
 ||api.spotify.com^
 ||api.sr.se^
-||api.stripe.com^
 ||api.swish.nu^
 ||api.tidningenattention.se^
 ||api.trendhim.com^
@@ -215,6 +216,7 @@
 ||booztcdn.com^
 ||bq1.if.se^
 ||brainnordic.com^
+||braze.eu^
 ||brevo.com^
 ||browsealoud.com^
 ||browser-intake-datadoghq.eu^
@@ -224,6 +226,7 @@
 ||bstatic.com^
 ||btg.everydayhealth.com^
 ||btikon.se^
+||bugsnag.com^
 ||bunny.net^
 ||bunnyinfra.net^
 ||businesscatalyst.com^
@@ -307,6 +310,7 @@
 ||cmp.prisjakt.nu^
 ||cms.klarna.com^
 ||cnn.com^
+||codeblackbelt.com^
 ||codeload.github.com^
 ||cognitoforms.com^
 ||commercelayer.io^
@@ -398,6 +402,7 @@
 ||dual-s-dc-msedge.net^
 ||dual-s-msedge.net^
 ||dummy.owhealth.com^
+||dycdn.net^
 ||dyn-rev.app^
 ||dyna.wikimedia.org^
 ||dynamics.com^
@@ -451,6 +456,7 @@
 ||exp.wg.spotify.com^
 ||ext.dn.se^
 ||extellio.com^
+||extendthemes.com^
 ||f.thumbs.redditmedia.com^
 ||fantoly.com^
 ||faq.kolmarden.com^
@@ -538,6 +544,7 @@
 ||googletagmanager.com^
 ||googleusercontent.com^
 ||googlevideo.com^
+||gorgias.chat^
 ||gorgias.win^
 ||gql-realtime.reddit.com^
 ||gql.reddit.com^
@@ -574,7 +581,6 @@
 ||home-assistant.io^
 ||homeassistant.local^
 ||homeconnecthca.com^
-||hooks.stripe.com^
 ||hornbach.de^
 ||hotelengine.eu^
 ||hp.com^
@@ -582,8 +588,10 @@
 ||hs-sites-eu1.com^
 ||hsappstatic.net^
 ||hsforms.com^
+||hspvst.com^
 ||http1.netflix.com^
 ||hubapi.com^
+||hubspot.com^
 ||hubspot.net^
 ||hubspotlinks.com^
 ||hubspotusercontent-na1.net^
@@ -669,7 +677,6 @@
 ||jifo.co^
 ||jquery.com^
 ||js.klarna.com^
-||js.stripe.com^
 ||jscache.com^
 ||jsdelivr.net^
 ||jspm.io^
@@ -697,6 +704,7 @@
 ||klarnacdn.net^
 ||klarnaevt.com^
 ||klarnaservices.com^
+||klaviyo.com^
 ||klevu.com^
 ||kodmyran.io^
 ||kronansapotek.io^
@@ -722,6 +730,7 @@
 ||licdn.com^
 ||lifeofsvea.se^
 ||lightwidget.com^
+||line-scdn.net^
 ||link.avanza.se^
 ||linkedin.com^
 ||linode.com^
@@ -782,7 +791,6 @@
 ||media.vklass.se^
 ||mediaflow.com^
 ||mediaflowpro.com^
-||merchant-ui-api.stripe.com^
 ||met.no^
 ||meta.m.wikimedia.org^
 ||meta.wikimedia.org^
@@ -891,6 +899,7 @@
 ||page.link^
 ||pages.dev^
 ||pages.github.com^
+||pandect.es^
 ||pantheon.io^
 ||pantheonsite.io^
 ||parastorage.com^
@@ -916,6 +925,7 @@
 ||pji.nu^
 ||platform.sh^
 ||platform.twitter.com^
+||platformsh.site^
 ||plausible.io^
 ||player-v2.yle.fi^
 ||plejd.cloud^
@@ -953,7 +963,6 @@
 ||push.prod.netflix.com^
 ||puzzel.com^
 ||pzjh.bauhaus.se^
-||q.stripe.com^
 ||qbrick.com^
 ||qcinternal.io^
 ||qlikcloud.com^
@@ -971,11 +980,11 @@
 ||quilljs.com^
 ||quovadisglobal.com^
 ||qvdt3feo.com^
-||r.stripe.com^
 ||r3---sn-5goeen7y.c.youtube.com^
 ||r9cdn.net^
 ||rackfish.com^
 ||rapid7.com^
+||rawgit.com^
 ||raygun.io^
 ||rckf.sh^
 ||rdcv1.com^
@@ -1001,6 +1010,7 @@
 ||rlfrc.net^
 ||robinpro.gallery^
 ||roeye.com^
+||roeyecdn.com^
 ||royaldesign.com^
 ||run.app^
 ||s-msedge.net^
@@ -1015,6 +1025,8 @@
 ||s3.adlibris.com^
 ||s3m.io^
 ||safebrowsing.apple^
+||salesforce.com^
+||salesforceliveagent.com^
 ||salesposter.aftonbladet.se^
 ||sanity.io^
 ||sanity.onl^
@@ -1027,6 +1039,7 @@
 ||sciencebehindecommerce.com^
 ||screen9.com^
 ||scripts.dailymail.co.uk^
+||searchrys.com^
 ||sectigo.com^
 ||section.io^
 ||secure.folksam.se^
@@ -1044,11 +1057,13 @@
 ||sfnix.net^
 ||sfx.ms^
 ||sgit.se^
+||sgtm.vidaxl.se^
 ||sharepoint.com^
 ||shelves.booking.com^
 ||shop.app^
 ||shoparize.com^
 ||shopcircle.co^
+||shopello.net^
 ||shopify.com^
 ||shopifyapps.com^
 ||shopifycdn.com^
@@ -1057,6 +1072,7 @@
 ||shopifysvc.com^
 ||shopilana.com^
 ||shoplift.ai^
+||shopping4net.com^
 ||shyajio.com^
 ||sigmacdn.net^
 ||signatureservice.se^
@@ -1073,6 +1089,8 @@
 ||skosm.klarna.com^
 ||skype.com^
 ||smassets.net^
+||smct.co^
+||smct.io^
 ||sme.expressen.se^
 ||smetrics.avanza.se^
 ||smhi.se^
@@ -1105,6 +1123,7 @@
 ||st.polarpumpen.se^
 ||stadium.com^
 ||stage.ginza.se^
+||stamped.io^
 ||stape.net^
 ||start-cdn.sr.se^
 ||start.sr.se^
@@ -1129,6 +1148,7 @@
 ||stm.netonnet.se^
 ||storage.omni.se^
 ||storyblok.com^
+||stripe.com^
 ||stripe.network^
 ||stripecdn.com^
 ||styles.redditmedia.com^
@@ -1156,6 +1176,7 @@
 ||t.dailymail.co.uk^
 ||tagging.hemnet.se^
 ||taggstar.com^
+||tagmanager.pricerunner.se^
 ||tangooserver.com^
 ||taucdn.net^
 ||tawk.link^
@@ -1192,6 +1213,7 @@
 ||tracking.viivilla.se^
 ||trafficmanager.net^
 ||transcy.io^
+||treasuredata.com^
 ||trengo.eu^
 ||triggerbee.com^
 ||trimble.com^
@@ -1213,9 +1235,11 @@
 ||unleash-hosted.com^
 ||unpkg.com^
 ||upload.wikimedia.org^
+||upsellit.com^
 ||upsiloncdn.net^
 ||ur.imagevault.app^
 ||ur.se^
+||usemessages.com^
 ||user.com^
 ||usercentrics.eu^
 ||usercontent.one^
@@ -1292,6 +1316,7 @@
 ||yahoo.com^
 ||yahoodns.net^
 ||yimg.com^
+||yimg.jp^
 ||yle-consent-sdk-production.c3.yle.fi^
 ||yle-consent-sdk.yle.fi^
 ||yle-player-static-production.c2.yle.fi^
@@ -1305,8 +1330,10 @@
 ||zalan.do^
 ||zdassets.com^
 ||zdstatic.everydayhealth.com^
+||zendesk.com^
 ||zentrick.com^
 ||zm90y.fotbollskanalen.se^
 ||zoom.us^
 ||zoovu.com^
+||zopim.com^
 ||ztat.net^
