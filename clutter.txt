@@ -294,6 +294,7 @@
 ||clerk.io^
 ||clientgear.com^
 ||clienttoken.spotify.com^
+||cloud.microsoft^
 ||cloud.netflix.com^
 ||cloudapp.net^
 ||cloudflare-dns.com^
@@ -406,6 +407,7 @@
 ||dyn-rev.app^
 ||dyna.wikimedia.org^
 ||dynamics.com^
+||dynatrace.com^
 ||e-msedge.net^
 ||e-space.se^
 ||e37.se^
@@ -460,6 +462,7 @@
 ||f.thumbs.redditmedia.com^
 ||fantoly.com^
 ||faq.kolmarden.com^
+||fastly-edge.com^
 ||fastly.net^
 ||fastlylb.net^
 ||fastsimon.com^
@@ -582,6 +585,7 @@
 ||homeassistant.local^
 ||homeconnecthca.com^
 ||hornbach.de^
+||hosted-by-discourse.com^
 ||hotelengine.eu^
 ||hp.com^
 ||hs-banner.com^
@@ -856,6 +860,7 @@
 ||npmcdn.com^
 ||nprapps.org^
 ||nvidia.com^
+||oaiusercontent.com^
 ||oath.cloud^
 ||oca-api.netflix.com^
 ||ocsp.pki.goog^
@@ -934,7 +939,9 @@
 ||pliing.com^
 ||plyr.io^
 ||pod.space^
+||podtrac.com^
 ||pointerpro.com^
+||policypak.com^
 ||polyfill.io^
 ||porionald-resteebsd.icu^
 ||posterlounge.com^
@@ -995,6 +1002,7 @@
 ||rechargecdn.com^
 ||recurpay.com^
 ||redd.it^
+||redditstatic.com^
 ||redeal.se^
 ||reepay.com^
 ||rekai.se^
@@ -1145,6 +1153,7 @@
 ||stbuttons.click^
 ||stenamet.intra^
 ||stenametall.com^
+||stenametall.se^
 ||stm.netonnet.se^
 ||storage.omni.se^
 ||storyblok.com^
