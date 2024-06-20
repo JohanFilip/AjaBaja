@@ -24,6 +24,7 @@
 ||acs1.swedbank.se^
 ||acs3.swedbank.se^
 ||ada.support^
+||adc-cdn-vip-01.svea.com^
 ||addsauce.com^
 ||adii.io^
 ||adii.se^
@@ -264,6 +265,7 @@
 ||cdn.printfriendly.com^
 ||cdn.steamstatic.com^
 ||cdn.storm.io^
+||cdn.svea.com^
 ||cdn.yle.fi^
 ||cdn01.nyheter24.se^
 ||cdn02.nyheter24.se^
@@ -371,6 +373,7 @@
 ||dc-msedge.net^
 ||dealer.spotify.com^
 ||delivery.youplay.se^
+||dema.ai^
 ||demoup.com^
 ||depict.ai^
 ||dept-meta-api.com^
@@ -791,6 +794,7 @@
 ||media.babyland.se^
 ||media.birdsrelations.com^
 ||media.ginza.se^
+||media.klockgiganten.se^
 ||media.storochliten.se^
 ||media.vklass.se^
 ||mediaflow.com^
@@ -859,6 +863,7 @@
 ||nouwcdn.com^
 ||npmcdn.com^
 ||nprapps.org^
+||nsvcs.net^
 ||nvidia.com^
 ||oaiusercontent.com^
 ||oath.cloud^
@@ -891,6 +896,7 @@
 ||opera.com^
 ||oppwa.com^
 ||optimalpeople.fr^
+||optimole.com^
 ||opv.se^
 ||orangeclickmedia.com^
 ||orbitvu.cloud^
@@ -1008,6 +1014,7 @@
 ||rekai.se^
 ||relay-t.io^
 ||releware.net^
+||relewise.com^
 ||research.pricerunner.com^
 ||restapi.bookvisit.com^
 ||retargeted.co^
@@ -1142,6 +1149,7 @@
 ||static.byggahus.se^
 ||static.elle.se^
 ||static.hitta.se^
+||static.klockgiganten.se^
 ||static.kundo.se^
 ||static.mabra.com^
 ||static.microsoft^
