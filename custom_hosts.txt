@@ -15,3 +15,4 @@
 ||vtwenty.com^
 ||popconvert.com^
 ||pop-convert.com^
+||iot-dns.com^
