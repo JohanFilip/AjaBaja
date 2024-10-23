@@ -17,3 +17,7 @@
 ||pop-convert.com^
 ||iot-dns.com^
 ||weply.chat^
+||ase.autodesk.com^
+||swc.autodesk.com^
+||help.autodesk.com^
+||installed-components.autodesk^
