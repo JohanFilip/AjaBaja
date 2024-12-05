@@ -21,3 +21,4 @@
 ||swc.autodesk.com^
 ||help.autodesk.com^
 ||installed-components.autodesk^
+||appsflyersdk.com^
