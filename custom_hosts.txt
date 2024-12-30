@@ -22,3 +22,4 @@
 ||help.autodesk.com^
 ||installed-components.autodesk^
 ||appsflyersdk.com^
+||tiktokpangle.us^
