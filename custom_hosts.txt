@@ -23,3 +23,5 @@
 ||installed-components.autodesk^
 ||appsflyersdk.com^
 ||tiktokpangle.us^
+||iteleserve.com^
+||serveteck.com^
