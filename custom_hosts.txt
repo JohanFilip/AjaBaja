@@ -27,3 +27,4 @@
 ||serveteck.com^
 ||app-analytics-services.com^
 ||evajansson.com^
+||quantummetric.com^
